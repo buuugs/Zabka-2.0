@@ -21,11 +21,5 @@ class Dashboard extends Controller
     {
         require 'application/views/dashboard/logout.php';
     }
-    // public function exampleTwo()
-    // {
-        
-    //     require 'application/views/_templates/header.php';
-    //     require 'application/views/home/example_two.php';
-    //     require 'application/views/_templates/footer.php';
-    // }
+
 }
