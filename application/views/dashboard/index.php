@@ -25,12 +25,12 @@
          <div class="card">
             <div class="card-body">
                <center>
-                  <a href="grafik.php">
+                  <a href="/grafik/index">
                      <h5 class="card-title">Grafik</h5>
                      <h6 class="card-subtitle mb-2 text-muted">
                      </p>
                      <img src="<?= SUB_DIR ?>/assets/img/calendar.png" style="max-width:249px; max-height:151px;"></img></br></br>
-                  <a href="grafik.php" class="card-link">Sprawdź grafik pracowników <br></a></a>
+                     Sprawdź grafik pracowników <br></a>
                </center>
             </div>
          </div>
