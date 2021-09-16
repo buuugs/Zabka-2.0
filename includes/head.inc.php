@@ -7,6 +7,18 @@
 		<meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
+        <script>
+            function SubmitForm(formId) {
+             var Formtoload = document.getElementById(formId);
+            if (Formtoload) {
+                Formtoload.submit(); 
+            }
+            else {
+             alert("Brak elementu: " + formId);
+            }
+           }
+    </script>
+
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/css.css"/>
@@ -22,7 +34,7 @@
     <link rel="apple-touch-icon" href="https://michalikzabka.000webhostapp.com/favicon.ico"/>
     <link rel="manifest" href="manifest.json"> -->
     <title>Żabka - Straty</title>
-
+    
 </head>
 	
 
