@@ -39,12 +39,12 @@
          <div class="card">
             <div class="card-body">
                <center>
-                  <a href="straty/index.php">
+                  <a href="/straty/index">
                      <h5 class="card-title">Straty</h5>
                      <h6 class="card-subtitle mb-2 text-muted">
                      </p>
                      <img src="<?= SUB_DIR ?>/assets/img/trash.png" style="max-width:249px; max-height:151px;"></img></br></br>
-                  <a href="straty/index.php" class="card-link">Dodaj starty do systemu</a></a>
+                  Dodaj starty do systemu</a>
                </center>
             </div>
          </div>

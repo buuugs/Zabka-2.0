@@ -1,0 +1,73 @@
+
+Dodane przez : Igor o godzinie 10:38:10
+
+
+Bułka_HotDog: 1
+
+Bułka_HotDog_(XXL): 2
+
+Parówka_z_szynki: 3
+
+Parówka_z_szynki(XXL): 0
+
+Kabanos: 0
+
+Bekon-Ser: 0
+
+Chorizo_(XXL): 0
+
+Kebdog: 0
+
+Parówka_roślinna: 14
+
+Grillowa_(XXL): 0
+
+Parówka_serowa: 0
+
+---------------------------------------------------------------------------
+
+Dodane przez : Igor o godzinie 10:38:43
+
+
+Bułka_HotDog: 123
+
+Bułka_HotDog_(XXL): 123
+
+Parówka_z_szynki: 123
+
+Parówka_z_szynki(XXL): 444
+
+Kabanos: 444
+
+Bekon-Ser: 444
+
+Chorizo_(XXL): 0
+
+Kebdog: 0
+
+Parówka_roślinna: 0
+
+Grillowa_(XXL): 0
+
+Parówka_serowa: 0
+
+---------------------------------------------------------------------------
+
+Dodane przez : Igor o godzinie 10:39:56
+
+
+Bułka_HotDog: 123
+
+Bułka_HotDog_(XXL): 132
+
+Parówka_z_szynki: 123
+
+Parówka_z_szynki(XXL): 312
+
+Kabanos: 32
+
+Bekon-Ser: 1123
+
+Parówka_roślinna: 312312
+
+---------------------------------------------------------------------------

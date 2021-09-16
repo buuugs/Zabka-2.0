@@ -37,5 +37,10 @@ class Session extends Controller
 	}
 
 
+	public static function isBanned() {
+
+		return (isset($_SESSION["login"]) && $_SESSION["banned"] === 1 && $_SESSION["admin"] === 0) ? true : false;
+
+	}
 
 }

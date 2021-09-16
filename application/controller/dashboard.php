@@ -21,5 +21,4 @@ class Dashboard extends Controller
     {
         require 'application/views/dashboard/logout.php';
     }
-
 }
